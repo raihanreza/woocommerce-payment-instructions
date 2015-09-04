@@ -1,0 +1,10 @@
+.wrap.woocommerce.pic h3{ text-align:center; }
+.pic table.widefat th{ text-align:center; }
+.pic table.widefat td{ text-align:center; }
+.pic .add-btn { text-align:center; display:block; margin:1em 0; }
+div.add-pic { display:none; }
+.add-form .invalid{ border:1px solid #F00;}
+.order_pay_cls { padding:2px !important; }
+.order_pay_cls .order_data_column.fst { padding-left:2% !important; }
+.order_pay_cls .order_data_column { width:47% !important; }
+#sp_amount_input{display:none;}
